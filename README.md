@@ -25,7 +25,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Nauman+Ahmed">「 Google Me 」</a>
     <br>
     「 I am a Full Stack Web Application Developer from <b>Pakistan</b> 」
     <br>
